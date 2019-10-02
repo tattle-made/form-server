@@ -1,0 +1,20 @@
+{
+  "name": "form-server",
+  "version": "1.0.0",
+  "description": "a tattle util server to store and retrieve documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tattle",
+    "document",
+    "store"
+  ],
+  "author": "denny",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.3"
+  }
+}
