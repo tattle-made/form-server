@@ -6,7 +6,7 @@ COPY . /app
 
 RUN npm install
 
-EXPOSE 9003
+EXPOSE 3002
 
 RUN npm install -g nodemon
 
